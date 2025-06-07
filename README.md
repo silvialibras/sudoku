@@ -95,7 +95,11 @@ Desenvolver um jogo Sudoku em Java, aplicando conceitos de:
 IDE Utilizada: Intellij IDEA
 
 ---
+Sudoku
+---
+<img src="https://github.com/silvialibras/sudoku/blob/main/imagem%20do%20sudoko.jpeg" width="200" alt="Texto alternativo">
 
+---
 ## 🔗 Link Útil  
 - [Regras do Sudoku](https://www.sudokuonline.io/pt/regras-sudoku)  
 
